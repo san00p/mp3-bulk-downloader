@@ -1,5 +1,5 @@
 # YouTube to MP3 Downloader
-
+Go to any yotube playlist and copy the URL
 A Python GUI application that downloads audio from YouTube videos and converts them to MP3 files with customizable quality settings.
 
 ![Application Screenshot](screenshot.png) *Example screenshot would go here*
